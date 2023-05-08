@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+dash==2.9.3
+jupyter_dash==0.4.2
+matplotlib==3.7.1
+numpy==1.24.3
+opencv_python==4.7.0.72
+Pillow==9.5.0
+plotly==5.14.1
+scikit_learn==1.2.2
+supervision==0.6.0
+transformers==4.28.1

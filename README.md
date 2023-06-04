@@ -1,6 +1,9 @@
 # ViTB16 Clustering
-Exploring using K-Means clustering and cosine similarity matrices on image embeddings from vision transformers
+Exploring using K-Means clustering and cosine similarity matrices on image features from a vision transformer.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBiNzQ1OTdlZjY5ZTU2N2M1NzRlY2UyOGRhNTU1MGE1MWEzZTQyOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HyBs6jgPS4RLHkbsC9/giphy.gif" alt="animated" />
+</p>
 
 ## Requirements
 * CUDA 11.7
